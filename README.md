@@ -1,2 +1,2 @@
 # KafkaExample
-Simple application which allow yo understand kafka basics
+Simple application which allow to understand kafka basics
